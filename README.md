@@ -1,16 +1,16 @@
-## Hi there 👋
+## Arindam Biswas
 
-<!--
-**armnrd/armnrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Algorithm engineer specializing in optimization and graph algorithms who likes to code in C# and Java.
 
-Here are some ideas to get you started:
+- Route Planning 🛣
+- Scheduling ⏲
+- Statistics 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an autodidact and excel at communicating complex ideas to diverse audiences. Don't hesitate to get in touch if you would like me to give a talk at your tech meetup.
+
+### 📬 Contact Information
+
+- **LinkedIn**: [Arindam Biswas](https://www.linkedin.com/in/arindam-biswas-phd/)
+- **Website**: [www.arindam.site](https://www.arindam.site/)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=armnrd&show_icons=true)
