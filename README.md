@@ -7,7 +7,7 @@ Algorithm engineer specializing in optimization and graph algorithms who likes t
 - Monte Carlo Simulations 🧪
 - Statistics 📊
 
-I am an autodidact and excel at communicating complex ideas to diverse audiences. Don't hesitate to get in touch if you would like me to give a talk at your tech meetup.
+I enjoy learning in general, and excel at communicating complex ideas to diverse audiences. Don't hesitate to get in touch if you would like me to give a talk at your tech meetup.
 
 ### 📬 Contact Information
 
